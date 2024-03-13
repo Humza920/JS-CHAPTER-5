@@ -70,4 +70,5 @@
 // console.log(ferenTemperature);
 // var fToCh = ((ferenTemperature-32)*5/9);
 // console.log(fToCh);
-// document.write(ferenTemperature + "F " + "is = to " + fToCh + "C" + "<br>" );
+// document.write(ferenTemperature + "F " + "is = to" + fToCh + "C" + "<br>" );
+
